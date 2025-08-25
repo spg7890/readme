@@ -1,0 +1,9 @@
+[project]
+name = "openai-api-agent-project"
+version = "0.1.0"
+dependencies = [
+    "openai",
+    "python-dotenv",
+    "pyyaml",
+    "flask",
+]
